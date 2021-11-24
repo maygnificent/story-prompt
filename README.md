@@ -1,7 +1,7 @@
 Hello :) 
 
 This is Maygun Chen's solution to the Story Prompt challenge from Common Paper.
-This project was written in Python3. 
+This project was written in Python3 and assumes the user has Python3 installed for use on the command line.
 
 You  will find the following files in this project:
 
