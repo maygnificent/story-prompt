@@ -3,7 +3,7 @@ Hello :)
 This is Maygun Chen's solution to the Story Prompt challenge from Common Paper.
 This project was written in Python3. 
 
-You  will find the follow files in this project:
+You  will find the following files in this project:
 
 'generator.py'
 
