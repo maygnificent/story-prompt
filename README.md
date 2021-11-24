@@ -7,14 +7,14 @@ You  will find the follow files in this project:
 
 'generator.py'
 
-  Instructions:
+    Instructions:
         1. After pulling the repo, navigate to the /story-prompt/may-solution/ directory
         2. Type the following command:
             python3 generator.py '{*/your key-value input string here/*}'
         
-   Here is an example input:
+     Example Input:
             python3 generator.py '{"number": 46, "unit_of_measure": "feet", "place": "work", "adjective": "fluffy", "noun": "cat"}'
-   Output:
+     Output:
             One day Anna was walking her 46 feet commute to work and found a fluffy cat on the ground.
     
 
@@ -34,7 +34,7 @@ You  will find the follow files in this project:
 
 'statistics.py'
 
-  Instructions:
+    Instructions:
         1. After pulling the repo, navigate to the /story-prompt/may-solution/ directory
         2. Type the following command:
             python3 statistics.py
