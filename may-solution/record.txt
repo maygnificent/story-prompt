@@ -1,0 +1,5 @@
+{"number": 2, "unit_of_measure": "mile", "place": "school", "adjective": "blue", "noun": "rock"}
+{"number": 10, "unit_of_measure": "kilometer", "place": "work", "adjective": "red", "noun": "flower"}
+{"number": 55, "unit_of_measure": "miles", "place": "CVS", "noun": "penny", "adjective": "shiny"}
+{"number": 777, "unit_of_measure": "mile", "place": "zoo", "adjective": "fluffy", "noun": "rabbit"}
+{"number": 46, "unit_of_measure": "feet", "place": "work", "adjective": "fluffy", "noun": "cat"}
