@@ -52,5 +52,5 @@ You  will find the following files in this project:
 Room for Improvement:
    
     - Instead of taking in CLI input, read from JSON file
-    - Turn 'record.txt' to a JSON file
+    - Turn 'record.txt' to a proper JSON file
     - Importing NLTK library to check inputs are actual adjectives and nouns
