@@ -47,6 +47,7 @@ You  will find the following files in this project:
 'record.txt'
     
     The text file with records of input strings. Strings are recorded in Python dictionary format.
+    It has some pre-loaded records so that there are already statistics to display.
 
 
 Room for Improvement:
