@@ -48,3 +48,8 @@ You  will find the following files in this project:
     
     The text file with records of input strings. Strings are recorded in Python dictionary format.
 
+
+Room for Improvement:
+    - Instead of taking in a CLI input, reading from JSON file
+    - Turn 'record.txt' to a JSON file
+    - Importing NLTK library to check inputs are actual adjectives and nouns
